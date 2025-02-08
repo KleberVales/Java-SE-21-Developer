@@ -7,4 +7,6 @@
 
 ## Understanding the Class Structure
 
+1. Fields and Methods
+
 
