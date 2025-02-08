@@ -35,6 +35,8 @@
 
 ## Understanding Data Types
 
+1. Using Primitive Types
+
 
 
 
