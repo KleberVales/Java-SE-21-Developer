@@ -44,6 +44,23 @@
 7. Creating Wrapper Classes
 8. Defining Text Blocks
 
+## Declaring Variables
+
+1. Identifying Identifiers
+2. Declaring Multiple Variables
+
+## Initializing Variables
+
+1. Creating Local Variables
+2. Final Local Variables
+3. Uninitialized Local Variables
+4. Passing Constructor and Method Parameters
+5. Defining Instance and Class Variables
+6. Inferring the Type with var
+7. Type Inference of var
+
+## Managing Variable Scope
+
 
 
 
