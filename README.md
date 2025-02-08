@@ -61,6 +61,17 @@
 
 ## Managing Variable Scope
 
+1. Limiting Scope
+2. Tracing Scope
+3. Applying Scope to Classes
+4. Reviewing Scope
+
+## Destroying Objects
+
+1. Understanding Garbage Collection
+2. Tracing Eligibility
+
+
 
 
 
