@@ -8,5 +8,6 @@
 ## Understanding the Class Structure
 
 1. Fields and Methods
+2. Classes and Source Files
 
 
