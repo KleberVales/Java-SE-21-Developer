@@ -5,5 +5,6 @@
 1. Major Components of Java
 2. Downloading a JDK
 
+## Understanding the Class Structure
 
 
