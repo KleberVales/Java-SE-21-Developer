@@ -36,6 +36,13 @@
 ## Understanding Data Types
 
 1. Using Primitive Types
+2. The Primitive Types
+3. Writing Literals
+4. Literals and the Underscore Character
+5. Using Reference Types
+6. Distinguishing Between Primitives and Reference Types
+7. Creating Wrapper Classes
+8. Defining Text Blocks
 
 
 
