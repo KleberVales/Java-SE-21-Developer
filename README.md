@@ -19,6 +19,13 @@
 
 1. Packages
 2. Wildcards
+3. Redundant Imports
+4. Naming Conflicts
+5. Creating a New Package
+6. Compiling and Running Code with Packages
+7. Compiling to Another Directory
+8. Ordering Elements in a Class
+
 
 
 
