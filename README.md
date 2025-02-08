@@ -28,6 +28,11 @@
 
 ## Creating Objects
 
+1. Calling Constructors
+2. Reading and Writing Member Fields
+3. Executing Instance Initializer Blocks
+4. Following the Order of Initialization
+
 
 
 
