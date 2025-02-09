@@ -1,21 +1,23 @@
 # Java SE 21 Developer
 
-## Learning About the Environment
+## Chapter 1: Building blocks
+
+### Learning About the Environment
 
 1. Major Components of Java
 2. Downloading a JDK
 
-## Understanding the Class Structure
+### Understanding the Class Structure
 
 1. Fields and Methods
 2. Classes and Source Files
 
-## Writing a main() Method
+### Writing a main() Method
 
 1. Creating a main() Method
 2. Passing Parameters to a Java Program
 
-## Understanding Package Declarations and Imports
+### Understanding Package Declarations and Imports
 
 1. Packages
 2. Wildcards
@@ -26,14 +28,14 @@
 7. Compiling to Another Directory
 8. Ordering Elements in a Class
 
-## Creating Objects
+### Creating Objects
 
 1. Calling Constructors
 2. Reading and Writing Member Fields
 3. Executing Instance Initializer Blocks
 4. Following the Order of Initialization
 
-## Understanding Data Types
+### Understanding Data Types
 
 1. Using Primitive Types
 2. The Primitive Types
@@ -44,12 +46,12 @@
 7. Creating Wrapper Classes
 8. Defining Text Blocks
 
-## Declaring Variables
+### Declaring Variables
 
 1. Identifying Identifiers
 2. Declaring Multiple Variables
 
-## Initializing Variables
+### Initializing Variables
 
 1. Creating Local Variables
 2. Final Local Variables
@@ -59,14 +61,14 @@
 6. Inferring the Type with var
 7. Type Inference of var
 
-## Managing Variable Scope
+### Managing Variable Scope
 
 1. Limiting Scope
 2. Tracing Scope
 3. Applying Scope to Classes
 4. Reviewing Scope
 
-## Destroying Objects
+### Destroying Objects
 
 1. Understanding Garbage Collection
 2. Tracing Eligibility
