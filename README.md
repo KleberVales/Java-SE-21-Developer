@@ -87,6 +87,13 @@
 
 ### Working with Binary Arithmetic Operators
 
+1. Arithmetic Operators
+2. Adding Parentheses
+3. Changing the Order of Operation
+4. Verifying Parentheses Syntax
+5. Division and Modulus Operators
+6. Numeric Promotion
+
 
 
 
