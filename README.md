@@ -82,6 +82,11 @@
 
 ### Applying Unary Operators
 
+1. Complement and Negation Operators
+2. Increment and Decrement Operators
+
+### Working with Binary Arithmetic Operators
+
 
 
 
