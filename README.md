@@ -73,6 +73,8 @@
 1. Understanding Garbage Collection
 2. Tracing Eligibility
 
+## Chapter 2: Operators
+
 
 
 
