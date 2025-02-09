@@ -77,6 +77,9 @@
 
 ### Understanding Java Operators
 
+1. Types of Operators
+2. Operator Precedence
+
 
 
 
