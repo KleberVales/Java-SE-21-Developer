@@ -107,6 +107,7 @@
 ## Chapter 3: Making Decisions
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
+## Chapter 6: Class Design
 
 
 
