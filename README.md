@@ -104,6 +104,9 @@
 6. Compound Assignment Operators
 7. Return Value of Assignment Operators
 
+## Chapter 3: Making Decisions
+## Chapter 4: Core APIs
+
 
 
 
