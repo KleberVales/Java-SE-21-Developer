@@ -113,6 +113,7 @@
 ## Chapter 9: Collections and Generics
 ## Chapter 10: Streams
 ## Chapter 11: Exceptions and Localization
+## Chapter 12: Modules
 
 
 
