@@ -109,6 +109,7 @@
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
+## Chapter 8: Lambdas and Functional Interfaces
 
 
 
