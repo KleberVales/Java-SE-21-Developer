@@ -108,6 +108,7 @@
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
+## Chapter 7: Beyond Classes
 
 
 
