@@ -106,6 +106,14 @@
 
 ### Comparing Values
 
+1. Equality Operators
+2. Relational Operators
+3. Logical Operators
+4. Bitwise Operators
+5. Conditional Operators
+
+### Making Decisions with the Ternary Operator
+
 ## Chapter 3: Making Decisions
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
