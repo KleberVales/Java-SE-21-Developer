@@ -135,6 +135,11 @@
 8. Exhausting the switch Branches
 9. Using the yield Statement
 10. Using Pattern Matching with switch
+11. Ordering switch Branches
+12. Exhaustive switch Statements
+13. Handling a null Case
+
+### Writing while Loops
 
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
