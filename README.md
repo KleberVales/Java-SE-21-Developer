@@ -125,6 +125,17 @@
 
 ### Building switch Statements and Expressions
 
+1. Introducing switch
+2. Structuring switch Statements and Expressions
+3. Selecting the switch Variable
+4. Determining Acceptable Case Values
+5. Working with switch Statements
+6. Working with switch Expressions
+7. Returning Consistent Data Types
+8. Exhausting the switch Branches
+9. Using the yield Statement
+10. Using Pattern Matching with switch
+
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
