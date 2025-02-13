@@ -147,6 +147,21 @@
 
 ### Constructing for Loops
 
+1. The for Loop
+2. Printing Elements in Reverse
+3. Working with for Loops
+4. The for-each Loop
+
+### Controlling Flow with Branching
+
+1. Nested Loops
+2. Adding Optional Labels
+3. The break Statement
+4. The continue Statement
+5. The return Statement
+6. Unreachable Code
+7. Reviewing Branching
+
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
