@@ -118,6 +118,13 @@
 
 ### Creating Decision-Making Statements
 
+1. Statements and Blocks
+2. The if Statement
+3. The else Statement
+4. Shortening Code with Pattern Matching
+
+### Building switch Statements and Expressions
+
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
