@@ -141,6 +141,12 @@
 
 ### Writing while Loops
 
+1. The while Statement
+2. The do/while Statement
+3. Infinite Loops
+
+### Constructing for Loops
+
 ## Chapter 4: Core APIs
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
