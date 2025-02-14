@@ -228,6 +228,13 @@
 
 ### Working with Dates and Times
 
+1. Creating Dates and Times
+2. Manipulating Dates and Times
+3. Working with Periods
+4. Working with Durations
+5. Working with Instants
+6. Accounting for Daylight Saving Time
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
