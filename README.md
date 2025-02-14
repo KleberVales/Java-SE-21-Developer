@@ -203,6 +203,8 @@
 
 ### Understanding Arrays
 
+1. Creating an Array of Primitives
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
