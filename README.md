@@ -219,6 +219,15 @@
 
 ### Calculating with Math APIs
 
+1. Finding the Minimum and Maximum
+2. Rounding Numbers
+3. Determining the Ceiling and Floor
+4. Calculating Exponents
+5. Generating Random Numbers
+6. Using BigInteger and BigDecimal
+
+### Working with Dates and Times
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
