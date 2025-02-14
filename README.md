@@ -206,6 +206,7 @@
 1. Creating an Array of Primitives
 2. Creating an Array with Reference Variables
 3. Using an Array
+4. Sorting
 
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
