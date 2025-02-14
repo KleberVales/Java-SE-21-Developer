@@ -208,6 +208,11 @@
 3. Using an Array
 4. Sorting
 5. Searching
+6. Comparing
+7. Using equals()
+8. Using compare()
+9. Using mismatch()
+10. Using Methods with Varargs
 
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
