@@ -199,6 +199,9 @@
 ### Understanding Equality
 
 1. Comparing equals() and ==
+2. The String Pool
+
+### Understanding Arrays
 
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
