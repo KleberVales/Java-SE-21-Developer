@@ -163,6 +163,9 @@
 7. Reviewing Branching
 
 ## Chapter 4: Core APIs
+
+### Creating and Manipulating Strings
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
