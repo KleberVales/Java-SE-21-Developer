@@ -185,6 +185,19 @@
 
 ### Using the StringBuilder Class
 
+1. Mutability and Chaining
+2. Creating a StringBuilder
+3. Important StringBuilder Methods
+4. Using Common Methods
+5. Appending Values
+6. Applying Code Points
+7. Inserting Data
+8. Deleting Contents
+9. Replacing Portions
+10. Reversing
+
+### Understanding Equality
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
