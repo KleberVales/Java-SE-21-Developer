@@ -207,6 +207,7 @@
 2. Creating an Array with Reference Variables
 3. Using an Array
 4. Sorting
+5. Searching
 
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
