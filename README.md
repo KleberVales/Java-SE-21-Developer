@@ -166,6 +166,25 @@
 
 ### Creating and Manipulating Strings
 
+1. Concatenating
+2. Important String Methods
+3. Determining the Length
+4. Getting a Single Character
+5. Working with Code Points
+6. Getting a Substring
+7. Finding an Index
+8. Adjusting Case
+9. Checking for Equality
+10. Searching for Substrings
+11. Replacing Values
+12. Removing Whitespace
+13. Working with Indentation
+14. Checking for Empty or Blank Strings
+15. Formatting Values
+16. Method Chaining
+
+### Using the StringBuilder Class
+
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
