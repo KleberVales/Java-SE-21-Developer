@@ -213,6 +213,11 @@
 8. Using compare()
 9. Using mismatch()
 10. Using Methods with Varargs
+11. Working with Arrays of Arrays
+12. Creating an Array of Arrays
+13. Using an Array of Arrays
+
+### Calculating with Math APIs
 
 ## Chapter 5: Methods
 ## Chapter 6: Class Design
