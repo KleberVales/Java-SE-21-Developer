@@ -241,6 +241,7 @@
 ### Declaring Local and Instance Variables
 ### Working with Varargs
 ### Applying Access Modifiers
+### Accessing Static Data
 
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
