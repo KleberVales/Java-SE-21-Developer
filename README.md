@@ -266,6 +266,13 @@
 ### Understanding Polymorphism
 
 ## Chapter 8: Lambdas and Functional Interfaces
+
+### Writing Simple Lambdas
+### Coding Functional Interfaces
+### Using Method References
+### Working with Built-in Functional Interfaces
+### Working with Variables in Lambdas
+
 ## Chapter 9: Collections and Generics
 ## Chapter 10: Streams
 ## Chapter 11: Exceptions and Localization
