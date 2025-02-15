@@ -246,6 +246,10 @@
 ### Overloading Methods
 
 ## Chapter 6: Class Design
+
+### Understanding Inheritance
+
+
 ## Chapter 7: Beyond Classes
 ## Chapter 8: Lambdas and Functional Interfaces
 ## Chapter 9: Collections and Generics
