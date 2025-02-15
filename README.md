@@ -314,6 +314,14 @@
 ### Migrating an Application
 
 ## Chapter 13: Concurrency
+
+### Introducing Threads
+### Creating Threads with the Concurrency API
+### Writing Thread-Safe Code
+### Using Concurrent Collections
+### Identifying Threading Problems
+### Working with Parallel Streams
+
 ## Chapter 14: I/O
 
 
