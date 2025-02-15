@@ -274,6 +274,17 @@
 ### Working with Variables in Lambdas
 
 ## Chapter 9: Collections and Generics
+
+### Using Common Collection APIs
+### Using the List Interface
+### Using the Set Interface
+### Using the Queue and Deque Interfaces
+### Using the Map Interface
+### Sorting Data
+### Introducing Sequenced Collections
+### Reviewing Collection Types
+### Working with Generics
+
 ## Chapter 10: Streams
 ## Chapter 11: Exceptions and Localization
 ## Chapter 12: Modules
