@@ -303,6 +303,16 @@
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
+
+### Introducing Modules
+### Creating and Running a Modular Program
+### Updating Our Example for Multiple Modules
+### Diving into the Module Declaration
+### Creating a Service
+### Discovering Modules
+### Comparing Types of Modules
+### Migrating an Application
+
 ## Chapter 13: Concurrency
 ## Chapter 14: I/O
 
