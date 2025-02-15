@@ -293,6 +293,15 @@
 ### Working with Advanced Stream Pipeline Concepts
 
 ## Chapter 11: Exceptions and Localization
+
+### Understanding Exceptions
+### Recognizing Exception Classes
+### Handling Exceptions
+### Automating Resource Management
+### Formatting Values
+### Supporting Internationalization and Localization
+### Loading Properties with Resource Bundles
+
 ## Chapter 12: Modules
 ## Chapter 13: Concurrency
 ## Chapter 14: I/O
