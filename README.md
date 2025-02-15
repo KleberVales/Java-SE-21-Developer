@@ -243,6 +243,7 @@
 ### Applying Access Modifiers
 ### Accessing Static Data
 ### Passing Data among Methods
+### Overloading Methods
 
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
