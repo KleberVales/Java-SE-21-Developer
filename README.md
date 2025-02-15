@@ -238,6 +238,7 @@
 ## Chapter 5: Methods
 
 ### Designing Methods
+### Declaring Local and Instance Variables
 
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
