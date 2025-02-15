@@ -257,6 +257,9 @@
 
 
 ## Chapter 7: Beyond Classes
+
+### Implementing Interfaces
+
 ## Chapter 8: Lambdas and Functional Interfaces
 ## Chapter 9: Collections and Generics
 ## Chapter 10: Streams
