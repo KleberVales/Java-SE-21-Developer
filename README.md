@@ -262,6 +262,7 @@
 ### Working with Enums
 ### Sealing Classes
 ### Encapsulating Data with Records
+### Creating Nested Classes
 
 ## Chapter 8: Lambdas and Functional Interfaces
 ## Chapter 9: Collections and Generics
