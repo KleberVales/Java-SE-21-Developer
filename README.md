@@ -248,6 +248,11 @@
 ## Chapter 6: Class Design
 
 ### Understanding Inheritance
+### Creating Classes
+### Declaring Constructors
+### Initializing Objects
+### Inheriting Members
+### Creating Abstract Classes
 
 
 ## Chapter 7: Beyond Classes
