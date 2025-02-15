@@ -286,6 +286,12 @@
 ### Working with Generics
 
 ## Chapter 10: Streams
+
+### Returning an Optional
+### Using Streams
+### Working with Primitive Streams
+### Working with Advanced Stream Pipeline Concepts
+
 ## Chapter 11: Exceptions and Localization
 ## Chapter 12: Modules
 ## Chapter 13: Concurrency
