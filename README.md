@@ -259,6 +259,7 @@
 ## Chapter 7: Beyond Classes
 
 ### Implementing Interfaces
+### Working with Enums
 
 ## Chapter 8: Lambdas and Functional Interfaces
 ## Chapter 9: Collections and Generics
