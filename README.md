@@ -260,6 +260,7 @@
 
 ### Implementing Interfaces
 ### Working with Enums
+### Sealing Classes
 
 ## Chapter 8: Lambdas and Functional Interfaces
 ## Chapter 9: Collections and Generics
