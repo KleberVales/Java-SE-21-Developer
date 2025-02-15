@@ -239,6 +239,7 @@
 
 ### Designing Methods
 ### Declaring Local and Instance Variables
+### Working with Varargs
 
 ## Chapter 6: Class Design
 ## Chapter 7: Beyond Classes
