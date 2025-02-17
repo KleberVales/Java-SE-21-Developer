@@ -246,6 +246,7 @@
 5. Parameter List
 6. Method Signature
 7. Exception List
+8. Method Body
    
 ### Declaring Local and Instance Variables
 ### Working with Varargs
