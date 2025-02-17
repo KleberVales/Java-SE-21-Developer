@@ -244,6 +244,7 @@
 3. Return Type
 4. Method Name
 5. Parameter List
+6. Method Signature
    
 ### Declaring Local and Instance Variables
 ### Working with Varargs
