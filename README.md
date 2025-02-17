@@ -243,6 +243,7 @@
 2. Optional Specifiers
 3. Return Type
 4. Method Name
+5. Parameter List
    
 ### Declaring Local and Instance Variables
 ### Working with Varargs
