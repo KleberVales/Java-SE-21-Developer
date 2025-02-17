@@ -255,6 +255,9 @@
 3. Instance Variable Modifiers
    
 ### Working with Varargs
+
+1. Creating Methods with Varargs
+   
 ### Applying Access Modifiers
 ### Accessing Static Data
 ### Passing Data among Methods
