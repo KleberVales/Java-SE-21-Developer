@@ -252,6 +252,7 @@
 
 1. Local Variable Modifiers
 2. Effectively Final Variables
+3. Instance Variable Modifiers
    
 ### Working with Varargs
 ### Applying Access Modifiers
