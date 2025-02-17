@@ -251,6 +251,7 @@
 ### Declaring Local and Instance Variables
 
 1. Local Variable Modifiers
+2. Effectively Final Variables
    
 ### Working with Varargs
 ### Applying Access Modifiers
