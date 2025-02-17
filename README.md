@@ -249,6 +249,9 @@
 8. Method Body
    
 ### Declaring Local and Instance Variables
+
+1. Local Variable Modifiers
+   
 ### Working with Varargs
 ### Applying Access Modifiers
 ### Accessing Static Data
