@@ -242,6 +242,7 @@
 1. Access Modifiers
 2. Optional Specifiers
 3. Return Type
+4. Method Name
    
 ### Declaring Local and Instance Variables
 ### Working with Varargs
