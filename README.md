@@ -257,6 +257,7 @@
 ### Working with Varargs
 
 1. Creating Methods with Varargs
+2. Calling Methods with Varargs
    
 ### Applying Access Modifiers
 ### Accessing Static Data
