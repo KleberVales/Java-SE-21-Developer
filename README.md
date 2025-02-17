@@ -238,6 +238,9 @@
 ## Chapter 5: Methods
 
 ### Designing Methods
+
+1. Access Modifiers
+   
 ### Declaring Local and Instance Variables
 ### Working with Varargs
 ### Applying Access Modifiers
