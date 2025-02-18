@@ -288,6 +288,7 @@
 1. Reference Types
 2. Primitives
 3. Autoboxing
+4. Arrays
 
 ## Chapter 6: Class Design
 
