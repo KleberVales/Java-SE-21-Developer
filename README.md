@@ -286,6 +286,7 @@
 ### Overloading Methods
 
 1. Reference Types
+2. Primitives
 
 ## Chapter 6: Class Design
 
