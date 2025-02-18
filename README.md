@@ -269,6 +269,10 @@
 4. Public Access
    
 ### Accessing Static Data
+
+1. Designing Static Methods and Variables
+2. Accessing a Static Variable or Method
+   
 ### Passing Data among Methods
 ### Overloading Methods
 
