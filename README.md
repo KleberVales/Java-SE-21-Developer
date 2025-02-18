@@ -289,6 +289,7 @@
 2. Primitives
 3. Autoboxing
 4. Arrays
+5. Varargs
 
 ## Chapter 6: Class Design
 
