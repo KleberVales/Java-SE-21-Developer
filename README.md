@@ -274,6 +274,7 @@
 2. Accessing a Static Variable or Method
 3. Class vs. Instance Membership
 4. Static Variable Modifiers
+5. Static Initializers
    
 ### Passing Data among Methods
 ### Overloading Methods
