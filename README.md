@@ -278,6 +278,9 @@
 6. Static Imports
    
 ### Passing Data among Methods
+
+1. Passing Objects
+   
 ### Overloading Methods
 
 ## Chapter 6: Class Design
