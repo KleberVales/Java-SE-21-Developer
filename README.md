@@ -272,6 +272,7 @@
 
 1. Designing Static Methods and Variables
 2. Accessing a Static Variable or Method
+3. Class vs. Instance Membership
    
 ### Passing Data among Methods
 ### Overloading Methods
