@@ -290,6 +290,7 @@
 3. Autoboxing
 4. Arrays
 5. Varargs
+6. Putting It All Together
 
 ## Chapter 6: Class Design
 
