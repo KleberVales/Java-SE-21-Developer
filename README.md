@@ -262,6 +262,12 @@
 4. Using Varargs with Other Method Parameters
    
 ### Applying Access Modifiers
+
+1. Private Access
+2. Package Access
+3. Protected Access
+4. Public Access
+   
 ### Accessing Static Data
 ### Passing Data among Methods
 ### Overloading Methods
