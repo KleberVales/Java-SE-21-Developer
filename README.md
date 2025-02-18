@@ -275,6 +275,7 @@
 3. Class vs. Instance Membership
 4. Static Variable Modifiers
 5. Static Initializers
+6. Static Imports
    
 ### Passing Data among Methods
 ### Overloading Methods
