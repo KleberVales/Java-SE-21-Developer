@@ -287,6 +287,7 @@
 
 1. Reference Types
 2. Primitives
+3. Autoboxing
 
 ## Chapter 6: Class Design
 
