@@ -295,6 +295,9 @@
 ## Chapter 6: Class Design
 
 ### Understanding Inheritance
+
+1. Declaring a Subclass
+   
 ### Creating Classes
 ### Declaring Constructors
 ### Initializing Objects
