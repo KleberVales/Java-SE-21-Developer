@@ -305,6 +305,7 @@
 
 1. Extending a Class
 2. Applying Class Access Modifiers
+3. Accessing the this Reference
    
 ### Declaring Constructors
 ### Initializing Objects
