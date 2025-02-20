@@ -302,6 +302,10 @@
 4. Inheriting Object
    
 ### Creating Classes
+
+1. Extending a Class
+2. Applying Class Access Modifiers
+   
 ### Declaring Constructors
 ### Initializing Objects
 ### Inheriting Members
