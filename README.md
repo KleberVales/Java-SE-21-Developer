@@ -297,6 +297,7 @@
 ### Understanding Inheritance
 
 1. Declaring a Subclass
+2. Class Modifiers
    
 ### Creating Classes
 ### Declaring Constructors
