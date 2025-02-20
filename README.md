@@ -299,6 +299,7 @@
 1. Declaring a Subclass
 2. Class Modifiers
 3. Single vs. Multiple Inheritance
+4. Inheriting Object
    
 ### Creating Classes
 ### Declaring Constructors
