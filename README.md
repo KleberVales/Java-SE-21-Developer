@@ -467,6 +467,10 @@
     
 ### Working with Variables in Lambdas
 
+1. Listing Parameters
+2. Using Local Variables Inside a Lambda Body
+3. Referencing Variables from the Lambda Body
+
 ## Chapter 9: Collections and Generics
 
 ### Using Common Collection APIs
