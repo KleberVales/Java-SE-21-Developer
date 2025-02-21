@@ -435,7 +435,15 @@
 ## Chapter 8: Lambdas and Functional Interfaces
 
 ### Writing Simple Lambdas
+
+1. Looking at a Lambda Example
+2. Learning Lambda Syntax
+   
 ### Coding Functional Interfaces
+
+1. Defining a Functional Interface
+2. Adding Object Methods
+
 ### Using Method References
 ### Working with Built-in Functional Interfaces
 ### Working with Variables in Lambdas
