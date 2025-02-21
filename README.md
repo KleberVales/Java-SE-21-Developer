@@ -445,6 +445,13 @@
 2. Adding Object Methods
 
 ### Using Method References
+
+1. Calling static Methods
+2. Calling Instance Methods on a Particular Object
+3. Calling Instance Methods on a Parameter
+4. Calling Constructors
+5. Reviewing Method References
+   
 ### Working with Built-in Functional Interfaces
 ### Working with Variables in Lambdas
 
