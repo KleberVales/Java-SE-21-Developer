@@ -384,7 +384,34 @@
 7. Writing Enum Methods
    
 ### Sealing Classes
+
+1. Declaring a Sealed Class
+2. Compiling Sealed Classes
+3. Specifying the Subclass Modifier
+4. Creating final Subclasses
+5. Creating sealed Subclasses
+6. Creating non-sealed Subclasses
+7. Omitting the permits Clause
+8. Sealing Interfaces
+9. Applying Pattern Matching to a Sealed Class
+   
 ### Encapsulating Data with Records
+
+1. Understanding Encapsulation
+2. Applying Records
+3. Declaring Constructors
+4. The Long Constructor
+5. Compact Constructors
+6. Transforming Parameters
+7. Overloaded Constructors
+8. Understanding Record Immutability
+9. Using Pattern Matching with Records
+10. Matching Records
+11. Nesting Record Patterns
+12. Matching Records with var and Generics
+13. Applying Pattern Matching Records to Switch
+14. Customizing Records
+   
 ### Creating Nested Classes
 ### Understanding Polymorphism
 
