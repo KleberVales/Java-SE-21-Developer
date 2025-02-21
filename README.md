@@ -327,8 +327,26 @@
 ### Inheriting Members
 
 1. Overriding a Method
+2. Rule #1: Method Signatures
+3. Rule #2: Access Modifiers
+4. Rule #3: Checked Exceptions
+5. Rule #4: Covariant Return Types
+6. Redeclaring private Methods
+7. Hiding Static Methods
+8. Hiding Variables
+9. Writing final Methods
    
 ### Creating Abstract Classes
+
+1. Introducing Abstract Classes
+2. Declaring Abstract Methods
+3. Creating a Concrete Class
+4. Creating Constructors in Abstract Classes
+5. Spotting Invalid Declarations
+6. abstract and final Modifiers
+7. abstract and private Modifiers
+8. abstract and static Modifiers
+   
 ### Creating Immutable Objects
 
 
