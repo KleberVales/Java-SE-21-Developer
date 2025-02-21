@@ -349,6 +349,9 @@
    
 ### Creating Immutable Objects
 
+1. Declaring an Immutable Class
+2. Performing a Defensive Copy
+
 
 ## Chapter 7: Beyond Classes
 
