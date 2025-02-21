@@ -318,7 +318,16 @@
 6. Default Constructor Tips and Tricks
    
 ### Initializing Objects
+
+1. Initializing Classes
+2. Initialize Class X
+3. Initializing final Fields
+4. Initializing Instances
+   
 ### Inheriting Members
+
+1. Overriding a Method
+   
 ### Creating Abstract Classes
 ### Creating Immutable Objects
 
