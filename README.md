@@ -489,9 +489,35 @@
 12. Determining Equality
    
 ### Using the List Interface
+
+1. Comparing List Implementations
+2. Creating a List with a Factory
+3. Creating a List with a Constructor
+4. Working with List Methods
+5. Searching a List
+6. Converting from List to an Array
+   
 ### Using the Set Interface
+
+1. Comparing Set Implementations
+2. Working with Set Methods
+   
 ### Using the Queue and Deque Interfaces
+
+1. Comparing Deque Implementations
+2. Working with Queue and Deque Methods
+   
 ### Using the Map Interface
+
+1. Comparing Map Implementations
+2. Working with Map Methods
+3. Calling Basic Methods
+4. Iterating through a Map
+5. Getting Values Safely
+6. Replacing Values
+7. Putting If Absent
+8. Merging Data
+   
 ### Sorting Data
 ### Introducing Sequenced Collections
 ### Reviewing Collection Types
