@@ -374,6 +374,15 @@
 15. Reviewing Interface Members
    
 ### Working with Enums
+
+1. Creating Simple Enums
+2. Calling Common Enum Methods
+3. Using Enums in switch Statements
+4. Working with Complex Enums
+5. Creating Enum Variables
+6. Declaring Enum Constructors
+7. Writing Enum Methods
+   
 ### Sealing Classes
 ### Encapsulating Data with Records
 ### Creating Nested Classes
