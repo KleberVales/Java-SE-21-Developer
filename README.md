@@ -474,6 +474,20 @@
 ## Chapter 9: Collections and Generics
 
 ### Using Common Collection APIs
+
+1. Understanding Generic Types
+2. Shortening Generics Code
+3. Applying the Diamond Operator
+4. Applying var
+5. Adding Data
+6. Removing Data
+7. Counting Elements
+8. Clearing the Collection
+9. Checking Contents
+10. Removing with Conditions
+11. Iterating on a Collection
+12. Determining Equality
+   
 ### Using the List Interface
 ### Using the Set Interface
 ### Using the Queue and Deque Interfaces
