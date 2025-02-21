@@ -309,6 +309,14 @@
 4. Calling the super Reference
    
 ### Declaring Constructors
+
+1. Creating a Constructor
+2. The Default Constructor
+3. Calling Overloaded Constructors with this()
+4. Calling Parent Constructors with super()
+5. Understanding Compiler Enhancements
+6. Default Constructor Tips and Tricks
+   
 ### Initializing Objects
 ### Inheriting Members
 ### Creating Abstract Classes
