@@ -413,7 +413,24 @@
 14. Customizing Records
    
 ### Creating Nested Classes
+
+1. Declaring an Inner Class
+2. Instantiating an Instance of an Inner Class
+3. Referencing Members of an Inner Class
+4. Creating a static Nested Class
+5. Writing a Local Class
+6. Defining an Anonymous Class
+7. Reviewing Nested Classes
+
 ### Understanding Polymorphism
+
+1. Object vs. Reference
+2. Casting Objects
+3. Disallowed Casts
+4. Casting Interfaces
+5. The instanceof Operator
+6. Polymorphism and Method Overriding
+7. Overriding vs. Hiding Members
 
 ## Chapter 8: Lambdas and Functional Interfaces
 
