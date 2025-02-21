@@ -368,6 +368,10 @@
 9. Declaring Concrete Interface Methods
 10. Writing a default Interface Method
 11. Inheriting Duplicate default Methods
+12. Calling a default Method
+13. Declaring static Interface Methods
+14. Reusing Code with private Interface Methods
+15. Reviewing Interface Members
    
 ### Working with Enums
 ### Sealing Classes
