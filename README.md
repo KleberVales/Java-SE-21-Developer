@@ -453,6 +453,18 @@
 5. Reviewing Method References
    
 ### Working with Built-in Functional Interfaces
+
+1. Implementing Supplier
+2. Implementing Consumer and BiConsumer
+3. Implementing Predicate and BiPredicate
+4. Implementing Function and BiFunction
+5. Implementing UnaryOperator and BinaryOperator
+6. Checking Functional Interfaces
+7. Using Convenience Methods on Functional Interfaces
+8. Learning the Functional Interfaces for Primitives
+9. Functional Interfaces for boolean
+10. Functional Interfaces for double, int, and long
+    
 ### Working with Variables in Lambdas
 
 ## Chapter 9: Collections and Generics
