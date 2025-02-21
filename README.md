@@ -356,6 +356,19 @@
 ## Chapter 7: Beyond Classes
 
 ### Implementing Interfaces
+
+1. Declaring and Using an Interface
+2. Extending an Interface
+3. Inheriting an Interface
+4. Mixing Class and Interface Keywords
+5. Inheriting Duplicate Abstract Methods
+6. Inserting Implicit Modifiers
+7. Conflicting Modifiers
+8. Differences between Interfaces and Abstract Classes
+9. Declaring Concrete Interface Methods
+10. Writing a default Interface Method
+11. Inheriting Duplicate default Methods
+   
 ### Working with Enums
 ### Sealing Classes
 ### Encapsulating Data with Records
