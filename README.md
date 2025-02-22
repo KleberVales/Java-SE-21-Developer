@@ -519,6 +519,18 @@
 8. Merging Data
    
 ### Sorting Data
+
+1. Creating a Comparable Class
+2. Designing a compareTo() method
+3. Casting the compareTo() Argument
+4. Checking for null
+5. Keeping compareTo() and equals() Consistent
+6. Comparing Data with a Comparator
+7. Comparing Comparable and Comparator
+8. Comparing Multiple Fields
+9. Sorting and Searching
+10. Sorting a List
+    
 ### Introducing Sequenced Collections
 ### Reviewing Collection Types
 ### Working with Generics
