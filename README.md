@@ -537,6 +537,10 @@
 2. Working with SequencedMap
    
 ### Reviewing Collection Types
+
+1. Using Unmodifiable Wrapper Views
+2. Comparing Collection Types
+   
 ### Working with Generics
 
 ## Chapter 10: Streams
