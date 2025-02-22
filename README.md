@@ -591,6 +591,12 @@
 22. Putting Together the Pipeline
     
 ### Working with Primitive Streams
+
+1. Creating Primitive Streams
+2. Mapping Streams
+3. Using Optional with Primitive Streams
+4. Summarizing Statistics
+   
 ### Working with Advanced Stream Pipeline Concepts
 
 ## Chapter 11: Exceptions and Localization
