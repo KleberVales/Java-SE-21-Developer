@@ -543,6 +543,21 @@
    
 ### Working with Generics
 
+1. Creating Generic Classes
+2. Understanding Type Erasure
+3. Overloading a Generic Method
+4. Returning Generic Types
+5. Implementing Generic Interfaces
+6. Writing Generic Methods
+7. Creating a Generic Record
+8. Bounding Generic Types
+9. Creating Unbounded Wildcards
+10. Creating Upper-Bounded Wildcards
+11. Creating Lower-Bounded Wildcards
+12. Putting It All Together
+13. Combining Generic Declarations
+14. Passing Generic Arguments
+
 ## Chapter 10: Streams
 
 ### Returning an Optional
