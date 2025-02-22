@@ -561,6 +561,10 @@
 ## Chapter 10: Streams
 
 ### Returning an Optional
+
+1. Creating an Optional
+2. Dealing with an Empty Optional
+   
 ### Using Streams
 ### Working with Primitive Streams
 ### Working with Advanced Stream Pipeline Concepts
