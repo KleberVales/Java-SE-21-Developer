@@ -566,6 +566,30 @@
 2. Dealing with an Empty Optional
    
 ### Using Streams
+
+1. Understanding the Pipeline Flow
+2. Creating Stream Sources
+3. Creating Finite Streams
+4. Creating Infinite Streams
+5. Reviewing Stream Creation Methods
+6. Using Common Terminal Operations
+7. Counting
+8. Finding the Minimum and Maximum
+9. Finding a Value
+10. Matching
+11. Iterating
+12. Reducing
+13. Collecting
+14. Using Common Intermediate Operations
+15. Filtering
+16. Removing Duplicates
+17. Restricting by Position
+18. Mapping
+19. Using flatMap
+20. Sorting
+21. Taking a Peek
+22. Putting Together the Pipeline
+    
 ### Working with Primitive Streams
 ### Working with Advanced Stream Pipeline Concepts
 
