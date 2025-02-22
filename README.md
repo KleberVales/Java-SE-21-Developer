@@ -532,6 +532,10 @@
 10. Sorting a List
     
 ### Introducing Sequenced Collections
+
+1. Working with SequencedCollection
+2. Working with SequencedMap
+   
 ### Reviewing Collection Types
 ### Working with Generics
 
