@@ -620,6 +620,7 @@
 6. Reviewing Exception Types
 7. Throwing an Exception
 8. Calling Methods That Throw Exceptions
+9. Overriding Methods with Exceptions
    
 ### Recognizing Exception Classes
 ### Handling Exceptions
