@@ -619,6 +619,7 @@
 5. Error and Throwable
 6. Reviewing Exception Types
 7. Throwing an Exception
+8. Calling Methods That Throw Exceptions
    
 ### Recognizing Exception Classes
 ### Handling Exceptions
