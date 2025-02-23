@@ -611,6 +611,15 @@
 ## Chapter 11: Exceptions and Localization
 
 ### Understanding Exceptions
+
+1. The Role of Exceptions
+2. Understanding Exception Types
+3. Checked Exceptions
+4. Unchecked Exceptions
+5. Error and Throwable
+6. Reviewing Exception Types
+7. Throwing an Exception
+   
 ### Recognizing Exception Classes
 ### Handling Exceptions
 ### Automating Resource Management
