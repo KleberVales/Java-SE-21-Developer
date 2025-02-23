@@ -599,6 +599,15 @@
    
 ### Working with Advanced Stream Pipeline Concepts
 
+1. Linking Streams to the Underlying Data
+2. Chaining Optionals
+3. Collecting Results
+4. Using Basic Collectors
+5. Collecting into Maps
+6. Grouping, Partitioning, and Mapping
+7. Teeing Collectors
+8. Using a Spliterator
+
 ## Chapter 11: Exceptions and Localization
 
 ### Understanding Exceptions
