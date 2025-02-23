@@ -621,6 +621,7 @@
 7. Throwing an Exception
 8. Calling Methods That Throw Exceptions
 9. Overriding Methods with Exceptions
+10. Printing an Exception
    
 ### Recognizing Exception Classes
 ### Handling Exceptions
