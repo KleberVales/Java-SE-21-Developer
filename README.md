@@ -640,6 +640,7 @@
 1. Using try and catch Statements
 2. Chaining catch Blocks
 3. Applying a Multi-catch Block
+4. Adding a finally Block
 ### Automating Resource Management
 ### Formatting Values
 ### Supporting Internationalization and Localization
