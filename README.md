@@ -631,6 +631,7 @@
 4. ClassCastException
 5. NullPointerException
 6. IllegalArgumentException
+7. NumberFormatException
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
