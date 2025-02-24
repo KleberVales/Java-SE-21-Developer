@@ -624,6 +624,9 @@
 10. Printing an Exception
    
 ### Recognizing Exception Classes
+
+1. RuntimeException Classes
+2. ArithmeticException
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
