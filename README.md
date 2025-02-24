@@ -627,6 +627,7 @@
 
 1. RuntimeException Classes
 2. ArithmeticException
+3. ArrayIndexOutOfBoundsException
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
