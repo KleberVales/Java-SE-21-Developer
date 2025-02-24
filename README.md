@@ -632,6 +632,7 @@
 5. NullPointerException
 6. IllegalArgumentException
 7. NumberFormatException
+8. Checked Exception Classes
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
