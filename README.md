@@ -630,6 +630,7 @@
 3. ArrayIndexOutOfBoundsException
 4. ClassCastException
 5. NullPointerException
+6. IllegalArgumentException
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
