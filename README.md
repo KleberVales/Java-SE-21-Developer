@@ -629,6 +629,7 @@
 2. ArithmeticException
 3. ArrayIndexOutOfBoundsException
 4. ClassCastException
+5. NullPointerException
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
