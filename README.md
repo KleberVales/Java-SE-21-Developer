@@ -633,6 +633,8 @@
 6. IllegalArgumentException
 7. NumberFormatException
 8. Checked Exception Classes
+9. Error Classes
+    
 ### Handling Exceptions
 ### Automating Resource Management
 ### Formatting Values
