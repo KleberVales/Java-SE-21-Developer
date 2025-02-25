@@ -432,7 +432,7 @@
 6. Polymorphism and Method Overriding
 7. Overriding vs. Hiding Members
 
-## Chapter 8: Lambdas and Functional Interfaces
+## Chapter 8: Lambdas and Functional Interfaces ****
 
 ### Writing Simple Lambdas
 
