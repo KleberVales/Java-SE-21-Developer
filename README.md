@@ -671,6 +671,7 @@
 5. Formatting with CompactNumberFormat
 6. Localizing Dates
 7. Specifying a Locale Category
+   
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
