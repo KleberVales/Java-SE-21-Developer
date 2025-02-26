@@ -667,6 +667,7 @@
 1. Picking a Locale
 2. Localizing Numbers
 3. Formatting Numbers
+4. Parsing Numbers
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
