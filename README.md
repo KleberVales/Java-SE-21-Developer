@@ -650,6 +650,7 @@
 4. Declaring Resources
 5. Scope of Try-with-Resources
 6. Following Order of Operations
+7. Applying Effectively Final
    
 ### Formatting Values
 ### Supporting Internationalization and Localization
