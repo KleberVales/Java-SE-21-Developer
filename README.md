@@ -661,7 +661,10 @@
 4. Learning the Standard Date/Time Symbols
 5. Selecting a format() Method
 6. Adding Custom Text Values
+   
 ### Supporting Internationalization and Localization
+
+1. Picking a Locale
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
