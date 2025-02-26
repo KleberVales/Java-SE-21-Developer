@@ -657,6 +657,7 @@
 
 1. Formatting Numbers
 2. Formatting Dates and Times
+3. Customizing the Date/Time Format
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
 
