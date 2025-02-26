@@ -659,6 +659,7 @@
 2. Formatting Dates and Times
 3. Customizing the Date/Time Format
 4. Learning the Standard Date/Time Symbols
+5. Selecting a format() Method
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
 
