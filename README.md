@@ -665,6 +665,7 @@
 ### Supporting Internationalization and Localization
 
 1. Picking a Locale
+2. Localizing Numbers
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
