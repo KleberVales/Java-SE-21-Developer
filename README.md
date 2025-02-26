@@ -649,6 +649,7 @@
 3. Constructing Try-with-Resources Statements
 4. Declaring Resources
 5. Scope of Try-with-Resources
+6. Following Order of Operations
    
 ### Formatting Values
 ### Supporting Internationalization and Localization
