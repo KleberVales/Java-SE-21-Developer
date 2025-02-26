@@ -658,6 +658,7 @@
 1. Formatting Numbers
 2. Formatting Dates and Times
 3. Customizing the Date/Time Format
+4. Learning the Standard Date/Time Symbols
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
 
