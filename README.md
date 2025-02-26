@@ -651,6 +651,7 @@
 5. Scope of Try-with-Resources
 6. Following Order of Operations
 7. Applying Effectively Final
+8. Understanding Suppressed Exceptions
    
 ### Formatting Values
 ### Supporting Internationalization and Localization
