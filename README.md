@@ -656,6 +656,7 @@
 ### Formatting Values
 
 1. Formatting Numbers
+2. Formatting Dates and Times
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
 
