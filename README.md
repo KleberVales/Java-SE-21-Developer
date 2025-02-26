@@ -654,6 +654,8 @@
 8. Understanding Suppressed Exceptions
    
 ### Formatting Values
+
+1. Formatting Numbers
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
 
