@@ -647,6 +647,9 @@
 1. Introducing Try-with-Resources
 2. Basics of Try-with-Resources
 3. Constructing Try-with-Resources Statements
+4. Declaring Resources
+5. Scope of Try-with-Resources
+   
 ### Formatting Values
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
