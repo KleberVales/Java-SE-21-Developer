@@ -643,6 +643,9 @@
 4. Adding a finally Block
    
 ### Automating Resource Management
+
+1. Introducing Try-with-Resources
+2. Basics of Try-with-Resources
 ### Formatting Values
 ### Supporting Internationalization and Localization
 ### Loading Properties with Resource Bundles
