@@ -668,6 +668,7 @@
 2. Localizing Numbers
 3. Formatting Numbers
 4. Parsing Numbers
+5. Formatting with CompactNumberFormat
 ### Loading Properties with Resource Bundles
 
 ## Chapter 12: Modules
