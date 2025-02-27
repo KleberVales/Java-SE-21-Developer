@@ -678,6 +678,7 @@
 2. Picking a Resource Bundle
 3. Selecting Resource Bundle Values
 4. Formatting Messages
+5. Using the Properties Class
 
 ## Chapter 12: Modules
 
