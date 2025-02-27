@@ -676,6 +676,7 @@
 
 1. Creating a Resource Bundle
 2. Picking a Resource Bundle
+3. Selecting Resource Bundle Values
 
 ## Chapter 12: Modules
 
