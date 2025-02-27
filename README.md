@@ -677,6 +677,7 @@
 1. Creating a Resource Bundle
 2. Picking a Resource Bundle
 3. Selecting Resource Bundle Values
+4. Formatting Messages
 
 ## Chapter 12: Modules
 
