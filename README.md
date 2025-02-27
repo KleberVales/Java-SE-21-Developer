@@ -674,6 +674,9 @@
    
 ### Loading Properties with Resource Bundles
 
+1. Creating a Resource Bundle
+2. Picking a Resource Bundle
+
 ## Chapter 12: Modules
 
 ### Introducing Modules
