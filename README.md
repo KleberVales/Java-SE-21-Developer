@@ -703,6 +703,10 @@
 4. Creating the Staff Module
 
 ### Diving into the Module Declaration
+
+1. Exporting a Package
+2. Requiring a Module Transitively
+3. Effects of requires transitive
 ### Creating a Service
 ### Discovering Modules
 ### Comparing Types of Modules
