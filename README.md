@@ -683,8 +683,25 @@
 ## Chapter 12: Modules
 
 ### Introducing Modules
+
+1. Exploring a Module
+2. Benefits of Modules
+   
 ### Creating and Running a Modular Program
+
+1. Creating the Files
+2. Compiling Our First Module
+3. Running Our First Module
+4. Packaging Our First Module
+5. Updating Our Example for Multiple Modules
+    
 ### Updating Our Example for Multiple Modules
+
+1. Updating the Feeding Module
+2. Creating a Care Module
+3. Creating the Talks Module
+4. Creating the Staff Module
+
 ### Diving into the Module Declaration
 ### Creating a Service
 ### Discovering Modules
