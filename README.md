@@ -708,6 +708,8 @@
 2. Requiring a Module Transitively
 3. Effects of requires transitive
 4. Duplicate requires Statements
+5. Opening a Package
+   
 ### Creating a Service
 ### Discovering Modules
 ### Comparing Types of Modules
