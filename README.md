@@ -722,6 +722,7 @@
 
 1. Identifying Built-in Modules
 2. Getting Details with java
+3. Describing a Module
 ### Comparing Types of Modules
 ### Migrating an Application
 
