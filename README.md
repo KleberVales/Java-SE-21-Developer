@@ -726,6 +726,7 @@
 4. Listing Available Modules
 5. Showing Module Resolution
 6. Describing with jar
+7. Learning About Dependencies with jdeps
 ### Comparing Types of Modules
 ### Migrating an Application
 
