@@ -725,6 +725,7 @@
 3. Describing a Module
 4. Listing Available Modules
 5. Showing Module Resolution
+6. Describing with jar
 ### Comparing Types of Modules
 ### Migrating an Application
 
