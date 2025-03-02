@@ -728,6 +728,7 @@
 6. Describing with jar
 7. Learning About Dependencies with jdeps
 8. Using the --jdk-internals Flag
+9. Using Module Files with jmod
 ### Comparing Types of Modules
 ### Migrating an Application
 
