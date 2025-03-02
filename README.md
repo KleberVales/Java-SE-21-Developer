@@ -713,6 +713,7 @@
 ### Creating a Service
 
 1. Declaring the Service Provider Interface
+2. Creating a Service Locator
 ### Discovering Modules
 ### Comparing Types of Modules
 ### Migrating an Application
