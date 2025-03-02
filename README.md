@@ -711,6 +711,8 @@
 5. Opening a Package
    
 ### Creating a Service
+
+1. Declaring the Service Provider Interface
 ### Discovering Modules
 ### Comparing Types of Modules
 ### Migrating an Application
