@@ -715,6 +715,7 @@
 1. Declaring the Service Provider Interface
 2. Creating a Service Locator
 3. Invoking from a Consumer
+4. Adding a Service Provider
 ### Discovering Modules
 ### Comparing Types of Modules
 ### Migrating an Application
