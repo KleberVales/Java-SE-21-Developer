@@ -732,6 +732,7 @@
 10. Creating Java Runtime Images with jlink
 11. Creating Self-Contained Java Applications with jpackage
 12. Reviewing Command-Line Options
+13. Comparing Types of Modules
 ### Comparing Types of Modules
 ### Migrating an Application
 
