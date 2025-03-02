@@ -719,6 +719,8 @@
 5. Reviewing Directives and Services
    
 ### Discovering Modules
+
+1. Identifying Built-in Modules
 ### Comparing Types of Modules
 ### Migrating an Application
 
