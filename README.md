@@ -730,6 +730,7 @@
 8. Using the --jdk-internals Flag
 9. Using Module Files with jmod
 10. Creating Java Runtime Images with jlink
+11. Creating Self-Contained Java Applications with jpackage
 ### Comparing Types of Modules
 ### Migrating an Application
 
