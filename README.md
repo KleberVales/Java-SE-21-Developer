@@ -721,6 +721,7 @@
 ### Discovering Modules
 
 1. Identifying Built-in Modules
+2. Getting Details with java
 ### Comparing Types of Modules
 ### Migrating an Application
 
