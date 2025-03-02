@@ -729,6 +729,7 @@
 7. Learning About Dependencies with jdeps
 8. Using the --jdk-internals Flag
 9. Using Module Files with jmod
+10. Creating Java Runtime Images with jlink
 ### Comparing Types of Modules
 ### Migrating an Application
 
