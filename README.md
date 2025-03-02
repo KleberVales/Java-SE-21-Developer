@@ -727,6 +727,7 @@
 5. Showing Module Resolution
 6. Describing with jar
 7. Learning About Dependencies with jdeps
+8. Using the --jdk-internals Flag
 ### Comparing Types of Modules
 ### Migrating an Application
 
