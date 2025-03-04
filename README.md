@@ -745,6 +745,7 @@
 1. Determining the Order
 2. Exploring a Bottom-Up Migration Strategy
 3. Exploring a Top-Down Migration Strategy
+4. Splitting a Big Project into Modules
 
 ## Chapter 13: Concurrency
 
