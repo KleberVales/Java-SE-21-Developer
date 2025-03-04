@@ -746,6 +746,7 @@
 2. Exploring a Bottom-Up Migration Strategy
 3. Exploring a Top-Down Migration Strategy
 4. Splitting a Big Project into Modules
+5. Failing to Compile with a Cyclic Dependency
 
 ## Chapter 13: Concurrency
 
