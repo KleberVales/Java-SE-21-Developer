@@ -743,6 +743,7 @@
 ### Migrating an Application
 
 1. Determining the Order
+2. Exploring a Bottom-Up Migration Strategy
 
 ## Chapter 13: Concurrency
 
