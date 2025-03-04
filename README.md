@@ -742,6 +742,8 @@
    
 ### Migrating an Application
 
+1. Determining the Order
+
 ## Chapter 13: Concurrency
 
 ### Introducing Threads
