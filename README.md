@@ -734,6 +734,12 @@
 12. Reviewing Command-Line Options
 
 ### Comparing Types of Modules
+
+1. Named Modules
+2. Automatic Modules
+3. Unnamed Modules
+4. Reviewing Module Types
+   
 ### Migrating an Application
 
 ## Chapter 13: Concurrency
