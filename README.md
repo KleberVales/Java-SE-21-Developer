@@ -744,6 +744,7 @@
 
 1. Determining the Order
 2. Exploring a Bottom-Up Migration Strategy
+3. Exploring a Top-Down Migration Strategy
 
 ## Chapter 13: Concurrency
 
