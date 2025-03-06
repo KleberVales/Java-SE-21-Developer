@@ -758,6 +758,7 @@
 4. Working with Daemon Threads
 5. Managing a Thread’s Life Cycle
 6. Reviewing Thread Concepts
+   
 ### Creating Threads with the Concurrency API
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
