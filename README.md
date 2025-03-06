@@ -753,6 +753,7 @@
 ### Introducing Threads
 
 1. Comparing to Virtual Threads
+2. Understanding Thread Concurrency
 ### Creating Threads with the Concurrency API
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
