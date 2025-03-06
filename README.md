@@ -751,6 +751,8 @@
 ## Chapter 13: Concurrency
 
 ### Introducing Threads
+
+1. Comparing to Virtual Threads
 ### Creating Threads with the Concurrency API
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
