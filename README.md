@@ -765,6 +765,7 @@
 2. Submitting Tasks
 3. Waiting for Results
 4. Investigating Callable
+5. Shutting Down a Thread Executor
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
 ### Identifying Threading Problems
