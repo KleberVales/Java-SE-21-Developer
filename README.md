@@ -760,6 +760,8 @@
 6. Reviewing Thread Concepts
    
 ### Creating Threads with the Concurrency API
+
+1. Introducing the Single-Thread Executor
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
 ### Identifying Threading Problems
