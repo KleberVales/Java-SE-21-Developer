@@ -762,6 +762,7 @@
 ### Creating Threads with the Concurrency API
 
 1. Introducing the Single-Thread Executor
+2. Submitting Tasks
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
 ### Identifying Threading Problems
