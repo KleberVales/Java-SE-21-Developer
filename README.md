@@ -763,6 +763,7 @@
 
 1. Introducing the Single-Thread Executor
 2. Submitting Tasks
+3. Waiting for Results
 ### Writing Thread-Safe Code
 ### Using Concurrent Collections
 ### Identifying Threading Problems
