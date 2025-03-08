@@ -775,6 +775,7 @@
 2. Protecting Data with Atomic Classes
 3. Improving Access with synchronized Blocks
 4. Synchronizing Methods
+5. Understanding the Lock Framework
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
