@@ -772,6 +772,7 @@
 ### Writing Thread-Safe Code
 
 1. Understanding Thread-Safety
+2. Protecting Data with Atomic Classes
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
