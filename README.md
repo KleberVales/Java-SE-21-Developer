@@ -770,6 +770,8 @@
 7. Increasing Concurrency with Pools
    
 ### Writing Thread-Safe Code
+
+1. Understanding Thread-Safety
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
