@@ -780,6 +780,7 @@
 7. Attempting to Acquire a Lock
 8. Acquiring the Same Lock Twice
 9. Reviewing the Lock Framework
+10. Orchestrating Tasks with a CyclicBarrier
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
