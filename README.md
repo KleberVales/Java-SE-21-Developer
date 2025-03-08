@@ -774,6 +774,7 @@
 1. Understanding Thread-Safety
 2. Protecting Data with Atomic Classes
 3. Improving Access with synchronized Blocks
+4. Synchronizing Methods
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
