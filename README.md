@@ -779,6 +779,7 @@
 6. Applying a ReentrantLock
 7. Attempting to Acquire a Lock
 8. Acquiring the Same Lock Twice
+9. Reviewing the Lock Framework
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
