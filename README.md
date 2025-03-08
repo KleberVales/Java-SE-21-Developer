@@ -777,6 +777,7 @@
 4. Synchronizing Methods
 5. Understanding the Lock Framework
 6. Applying a ReentrantLock
+7. Attempting to Acquire a Lock
 ### Using Concurrent Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
