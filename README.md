@@ -793,6 +793,7 @@
 1. Understanding Liveness
 2. Deadlock
 3. Starvation
+4. Livelock
 ### Working with Parallel Streams
 
 ## Chapter 14: I/O
