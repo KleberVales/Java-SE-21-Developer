@@ -783,6 +783,8 @@
 10. Orchestrating Tasks with a CyclicBarrier
     
 ### Using Concurrent Collections
+
+1. Understanding Memory Consistency Errors
 ### Identifying Threading Problems
 ### Working with Parallel Streams
 
