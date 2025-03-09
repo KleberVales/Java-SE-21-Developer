@@ -785,6 +785,7 @@
 ### Using Concurrent Collections
 
 1. Understanding Memory Consistency Errors
+2. Working with Concurrent Classes
 ### Identifying Threading Problems
 ### Working with Parallel Streams
 
