@@ -786,6 +786,7 @@
 
 1. Understanding Memory Consistency Errors
 2. Working with Concurrent Classes
+3. Obtaining Synchronized Collections
 ### Identifying Threading Problems
 ### Working with Parallel Streams
 
