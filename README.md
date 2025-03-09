@@ -795,6 +795,7 @@
 3. Starvation
 4. Livelock
 5. Managing Race Conditions
+   
 ### Working with Parallel Streams
 
 ## Chapter 14: I/O
