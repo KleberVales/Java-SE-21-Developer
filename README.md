@@ -789,6 +789,8 @@
 3. Obtaining Synchronized Collections
    
 ### Identifying Threading Problems
+
+1. Understanding Liveness
 ### Working with Parallel Streams
 
 ## Chapter 14: I/O
