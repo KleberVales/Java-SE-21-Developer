@@ -791,6 +791,7 @@
 ### Identifying Threading Problems
 
 1. Understanding Liveness
+2. Deadlock
 ### Working with Parallel Streams
 
 ## Chapter 14: I/O
