@@ -799,6 +799,7 @@
 ### Working with Parallel Streams
 
 1. Creating Parallel Streams
+2. Performing a Parallel Decomposition
 
 ## Chapter 14: I/O
 
