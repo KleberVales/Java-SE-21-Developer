@@ -798,6 +798,8 @@
    
 ### Working with Parallel Streams
 
+1. Creating Parallel Streams
+
 ## Chapter 14: I/O
 
 ### Referencing Files and Directories
