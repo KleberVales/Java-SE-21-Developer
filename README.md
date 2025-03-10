@@ -802,6 +802,7 @@
 2. Performing a Parallel Decomposition
 3. Processing Parallel Reductions
 4. Performing Order-Based Tasks
+5. Combining Results with reduce()
 
 ## Chapter 14: I/O
 
