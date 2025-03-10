@@ -804,6 +804,7 @@
 4. Performing Order-Based Tasks
 5. Combining Results with reduce()
 6. Combining Results with collect()
+7. Performing a Parallel Reduction on a Collector
 
 ## Chapter 14: I/O
 
