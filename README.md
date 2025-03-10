@@ -800,6 +800,7 @@
 
 1. Creating Parallel Streams
 2. Performing a Parallel Decomposition
+3. Processing Parallel Reductions
 
 ## Chapter 14: I/O
 
