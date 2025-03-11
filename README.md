@@ -811,6 +811,7 @@
 ### Referencing Files and Directories
 
 1. Conceptualizing the File System
+2. Creating a File or Path
 ### Operating on File and Path
 ### Introducing I/O Streams
 ### Reading and Writing Files
