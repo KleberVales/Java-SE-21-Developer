@@ -812,6 +812,7 @@
 
 1. Conceptualizing the File System
 2. Creating a File or Path
+3. Creating a File
 ### Operating on File and Path
 ### Introducing I/O Streams
 ### Reading and Writing Files
