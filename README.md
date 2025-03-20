@@ -826,6 +826,7 @@
 6. Creating Part of the Path
 7. Accessing Path Elements
 8. Resolving Paths
+9. Relativizing a Path
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
