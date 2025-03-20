@@ -824,6 +824,7 @@
 4. Interacting with NIO.2 Paths
 5. Viewing the Path
 6. Creating Part of the Path
+7. Accessing Path Elements
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
