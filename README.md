@@ -825,6 +825,7 @@
 5. Viewing the Path
 6. Creating Part of the Path
 7. Accessing Path Elements
+8. Resolving Paths
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
