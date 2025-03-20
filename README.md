@@ -828,6 +828,7 @@
 8. Resolving Paths
 9. Relativizing a Path
 10. Normalizing a Path
+11. Retrieving the Real File System Path
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
