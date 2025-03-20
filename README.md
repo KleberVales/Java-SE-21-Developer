@@ -817,6 +817,8 @@
 5. Switching Between File and Path
    
 ### Operating on File and Path
+
+1. Using Shared Functionality
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
