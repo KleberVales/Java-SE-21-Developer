@@ -819,6 +819,7 @@
 ### Operating on File and Path
 
 1. Using Shared Functionality
+2. Handling Methods That Declare IOException
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
