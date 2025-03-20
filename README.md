@@ -829,6 +829,7 @@
 9. Relativizing a Path
 10. Normalizing a Path
 11. Retrieving the Real File System Path
+12. Reviewing NIO.2 Path APIs
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
