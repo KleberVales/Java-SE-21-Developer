@@ -823,6 +823,7 @@
 3. Providing NIO.2 Optional Parameters
 4. Interacting with NIO.2 Paths
 5. Viewing the Path
+6. Creating Part of the Path
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
