@@ -820,6 +820,7 @@
 
 1. Using Shared Functionality
 2. Handling Methods That Declare IOException
+3. Providing NIO.2 Optional Parameters
 ### Introducing I/O Streams
 ### Reading and Writing Files
 ### Serializing Data
