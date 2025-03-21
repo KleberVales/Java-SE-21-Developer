@@ -840,6 +840,7 @@
 5. Input vs. Output Streams
 6. Low-Level vs. High-Level Streams
 7. Stream Base Classes
+8. Decoding I/O Class Names
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
