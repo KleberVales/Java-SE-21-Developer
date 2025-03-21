@@ -843,6 +843,8 @@
 8. Decoding I/O Class Names
    
 ### Reading and Writing Files
+
+1. Using I/O Streams
 ### Serializing Data
 ### Interacting with Users
 ### Working with Advanced APIs
