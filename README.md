@@ -834,6 +834,7 @@
 ### Introducing I/O Streams
 
 1. Understanding I/O Stream Fundamentals
+2. Learning I/O Stream Nomenclature
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
