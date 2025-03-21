@@ -839,6 +839,7 @@
 4. Byte Streams vs. Character Streams
 5. Input vs. Output Streams
 6. Low-Level vs. High-Level Streams
+7. Stream Base Classes
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
