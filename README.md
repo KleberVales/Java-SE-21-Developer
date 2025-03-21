@@ -832,6 +832,8 @@
 12. Reviewing NIO.2 Path APIs
     
 ### Introducing I/O Streams
+
+1. Understanding I/O Stream Fundamentals
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
