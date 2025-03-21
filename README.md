@@ -838,6 +838,7 @@
 3. Storing Data as Bytes
 4. Byte Streams vs. Character Streams
 5. Input vs. Output Streams
+6. Low-Level vs. High-Level Streams
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
