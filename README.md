@@ -835,6 +835,7 @@
 
 1. Understanding I/O Stream Fundamentals
 2. Learning I/O Stream Nomenclature
+3. Storing Data as Bytes
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
