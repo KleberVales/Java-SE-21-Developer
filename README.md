@@ -837,6 +837,7 @@
 2. Learning I/O Stream Nomenclature
 3. Storing Data as Bytes
 4. Byte Streams vs. Character Streams
+5. Input vs. Output Streams
 ### Reading and Writing Files
 ### Serializing Data
 ### Interacting with Users
