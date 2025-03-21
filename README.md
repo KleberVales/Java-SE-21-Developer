@@ -845,6 +845,7 @@
 ### Reading and Writing Files
 
 1. Using I/O Streams
+2. Enhancing with Files
 ### Serializing Data
 ### Interacting with Users
 ### Working with Advanced APIs
