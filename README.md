@@ -852,6 +852,7 @@
 ### Serializing Data
 
 1. Applying the Serializable Interface
+2. Marking Data transient
 ### Interacting with Users
 ### Working with Advanced APIs
 ### Review of Key APIs
