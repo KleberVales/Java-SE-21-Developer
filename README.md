@@ -850,6 +850,8 @@
 4. Reviewing Common Read and Write Methods
    
 ### Serializing Data
+
+1. Applying the Serializable Interface
 ### Interacting with Users
 ### Working with Advanced APIs
 ### Review of Key APIs
