@@ -860,6 +860,7 @@
 ### Interacting with Users
 
 1. Printing Data to the User
+2. Reading Input as an I/O Stream
 ### Working with Advanced APIs
 ### Review of Key APIs
 
