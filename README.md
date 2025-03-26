@@ -864,6 +864,7 @@
 3. Closing System Streams
 4. Acquiring Input with Console
 5. Obtaining Underlying I/O Streams
+6. Formatting Console Data
 ### Working with Advanced APIs
 ### Review of Key APIs
 
