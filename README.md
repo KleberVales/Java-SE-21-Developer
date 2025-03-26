@@ -866,6 +866,8 @@
 5. Obtaining Underlying I/O Streams
 6. Formatting Console Data
 7. Reading Console Data
+8. Reviewing Console Methods
+   
 ### Working with Advanced APIs
 ### Review of Key APIs
 
