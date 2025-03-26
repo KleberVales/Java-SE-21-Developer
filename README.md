@@ -863,6 +863,7 @@
 2. Reading Input as an I/O Stream
 3. Closing System Streams
 4. Acquiring Input with Console
+5. Obtaining Underlying I/O Streams
 ### Working with Advanced APIs
 ### Review of Key APIs
 
