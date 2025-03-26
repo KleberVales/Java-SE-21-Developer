@@ -858,6 +858,8 @@
 5. Understanding the Deserialization Creation Process
    
 ### Interacting with Users
+
+1. Printing Data to the User
 ### Working with Advanced APIs
 ### Review of Key APIs
 
