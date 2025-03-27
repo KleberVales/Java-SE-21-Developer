@@ -874,6 +874,7 @@
 2. Marking Data
 3. Skipping Data
 4. Reviewing Manipulation APIs
+5. Discovering File Attributes
 ### Review of Key APIs
 
 
