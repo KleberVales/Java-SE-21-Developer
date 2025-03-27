@@ -876,6 +876,7 @@
 4. Reviewing Manipulation APIs
 5. Discovering File Attributes
 6. Checking for Symbolic Links
+7. Checking File Accessibility
 ### Review of Key APIs
 
 
