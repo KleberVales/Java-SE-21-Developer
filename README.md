@@ -881,6 +881,7 @@
 9. Understanding Attribute and View Types
 10. Retrieving Attributes
 11. Modifying Attributes
+12. Traversing a Directory Tree
 ### Review of Key APIs
 
 
