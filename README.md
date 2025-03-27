@@ -878,6 +878,7 @@
 6. Checking for Symbolic Links
 7. Checking File Accessibility
 8. Improving Attribute Access
+9. Understanding Attribute and View Types
 ### Review of Key APIs
 
 
