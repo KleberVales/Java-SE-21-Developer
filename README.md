@@ -886,6 +886,7 @@
 14. Walking a Directory
 15. Applying a Depth Limit
 16. Avoiding Circular Paths
+17. Searching a Directory
 ### Review of Key APIs
 
 
