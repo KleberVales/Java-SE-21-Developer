@@ -885,6 +885,7 @@
 13. Selecting a Search Strategy
 14. Walking a Directory
 15. Applying a Depth Limit
+16. Avoiding Circular Paths
 ### Review of Key APIs
 
 
