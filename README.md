@@ -869,6 +869,8 @@
 8. Reviewing Console Methods
    
 ### Working with Advanced APIs
+
+1. Manipulating Input Streams
 ### Review of Key APIs
 
 
