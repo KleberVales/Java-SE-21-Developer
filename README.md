@@ -872,6 +872,7 @@
 
 1. Manipulating Input Streams
 2. Marking Data
+3. Skipping Data
 ### Review of Key APIs
 
 
