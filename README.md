@@ -875,6 +875,7 @@
 3. Skipping Data
 4. Reviewing Manipulation APIs
 5. Discovering File Attributes
+6. Checking for Symbolic Links
 ### Review of Key APIs
 
 
