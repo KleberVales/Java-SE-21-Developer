@@ -882,6 +882,7 @@
 10. Retrieving Attributes
 11. Modifying Attributes
 12. Traversing a Directory Tree
+13. Selecting a Search Strategy
 ### Review of Key APIs
 
 
