@@ -877,6 +877,7 @@
 5. Discovering File Attributes
 6. Checking for Symbolic Links
 7. Checking File Accessibility
+8. Improving Attribute Access
 ### Review of Key APIs
 
 
